@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182902724684",
+    "project_id": "tmbf-a3ad4",
+    "storage_bucket": "tmbf-a3ad4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182902724684:android:a92e68a56fee4c594d7ce9",
+        "android_client_info": {
+          "package_name": "com.example.matraexcoretech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182902724684-rfocbo7j7akcpva8gbr2jarvghmnmuku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkgjO-m7jYS-SdkSE_Tspo-tgGENrJl54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182902724684-rfocbo7j7akcpva8gbr2jarvghmnmuku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
